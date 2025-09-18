@@ -1,0 +1,3 @@
+﻿  KonkovPR32_PRAKT3.cpp
+C:\Users\st310-05\Desktop\KonkovPR32_PRAKT3\KonkovPR32_PRAKT3\KonkovPR32_PRAKT3.cpp(33,1): error C4789: буфер "people" размером 100 байт будет переполнен; 1 будет записано начиная с позиции 100
+C:\Users\st310-05\Desktop\KonkovPR32_PRAKT3\KonkovPR32_PRAKT3\KonkovPR32_PRAKT3.cpp(24,1): error C4789: буфер "people" размером 100 байт будет переполнен; 1 будет записано начиная с позиции 100
